@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scene3d-bg {
+	pointer-events: none;
+}
