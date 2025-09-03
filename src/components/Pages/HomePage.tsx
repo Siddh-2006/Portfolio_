@@ -67,7 +67,7 @@ const HomePage: React.FC = () => {
             Sardar Vallabhbhai National Institute of Technology, Surat
           </p>
           <p className="text-green-400 font-mono text-lg">
-            CGPA: 9.72 | Roll No: U23AI017
+            CGPA: 8.3 | Roll No: I24AI004
           </p>
         </motion.div>
 
@@ -93,8 +93,8 @@ const HomePage: React.FC = () => {
                 className="bg-black/40 backdrop-blur-md border border-blue-500/20 rounded-lg p-6 hover:border-blue-500/40 transition-all duration-300"
               >
                 <div className="text-blue-400 text-2xl mb-3">🛡️</div>
-                <h3 className="text-xl font-bold text-blue-400 mb-2">Cybersecurity</h3>
-                <p className="text-gray-400">Expert in digital forensics, penetration testing, and security analysis</p>
+                <h3 className="text-xl font-bold text-blue-400 mb-2">DSA</h3>
+                <p className="text-gray-400">Expert in Complex Problem solving skills</p>
               </motion.div>
 
               <motion.div

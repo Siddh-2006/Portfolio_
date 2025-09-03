@@ -23,7 +23,7 @@ const Particles: React.FC<{ count: number }> = ({ count }) => {
     return [positions, colors];
   }, [count]);
 
-  useFrame((state) => {
+  useFrame((state: import('@react-three/fiber').RootState) => {
     if (mesh.current) {
       mesh.current.rotation.x = Math.sin(state.clock.elapsedTime * 0.2) * 0.1;
       mesh.current.rotation.y = Math.sin(state.clock.elapsedTime * 0.3) * 0.1;

@@ -46,7 +46,7 @@ const AboutPage: React.FC = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <span className="text-green-400">🎯</span>
-                  <span>AI Enthusiast & Cybersecurity Researcher</span>
+                  <span>AI Enthusiast & DSA Expert</span>
                 </div>
               </div>
             </div>
@@ -121,10 +121,10 @@ const AboutPage: React.FC = () => {
           className="grid grid-cols-2 md:grid-cols-4 gap-6"
         >
           {[
-            { label: 'CGPA', value: '9.72', color: 'green' },
+            { label: 'CGPA', value: '8.3', color: 'green' },
             { label: 'Projects', value: '5+', color: 'blue' },
             { label: 'Skills', value: '15+', color: 'purple' },
-            { label: 'Experience', value: '1+ Year', color: 'pink' }
+            // { label: 'Experience', value: '1+ Year', color: 'pink' }
           ].map((stat, index) => (
             <motion.div
               key={stat.label}

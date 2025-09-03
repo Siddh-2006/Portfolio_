@@ -21,13 +21,13 @@ const SkillsPage: React.FC = () => {
       skills: userData.skills.frameworks,
       color: 'blue'
     },
-    {
-      id: 'cybersecurity',
-      name: 'Cybersecurity',
-      icon: <Shield className="w-6 h-6" />,
-      skills: ['Volatility', 'Wireshark', 'NMAP', 'SPARTA', 'DNSENUM', 'NESSUS', 'AMASS', 'Autopsy', 'Digital Forensics', 'Penetration Testing'],
-      color: 'red'
-    },
+    // {
+    //   id: 'cybersecurity',
+    //   name: 'Cybersecurity',
+    //   icon: <Shield className="w-6 h-6" />,
+    //   skills: ['Volatility', 'Wireshark', 'NMAP', 'SPARTA', 'DNSENUM', 'NESSUS', 'AMASS', 'Autopsy', 'Digital Forensics', 'Penetration Testing'],
+    //   color: 'red'
+    // },
     {
       id: 'ai_ml',
       name: 'AI & Machine Learning',

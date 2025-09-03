@@ -25,7 +25,7 @@ const Navigation: React.FC<NavigationProps> = ({ currentPage, onNavigate }) => {
             whileHover={{ scale: 1.05 }}
             className="text-green-400 font-mono text-xl font-bold"
           >
-            miten@portfolio:~
+            siddh@portfolio:~
           </motion.div>
 
           {/* Navigation Links */}

@@ -68,33 +68,33 @@ export const userData: UserData = {
       },
       highlights: []
     },
-    {
-      name: "Financio - Finance with Financio",
-      description: "Web Wonders - 2024 conducted by Nexus NIT, Surat",
-      duration: "Jul 2024 - Aug 2024",
-      technologies: ["React", "Node.js", "Next.js", "TypeScript"],
-      links: {
-        website: "https://financio2.vercel.app/",
-        github: "https://github.com/Vatsal565/final"
-      },
-      highlights: [
-        "Developed comprehensive financial management system",
-        "Implemented real-time data visualization features",
-        "Created responsive user interface with modern design",
-        "Applied advanced financial algorithms for analysis"
-      ]
-    }
+    // {
+    //   name: "Financio - Finance with Financio",
+    //   description: "Web Wonders - 2024 conducted by Nexus NIT, Surat",
+    //   duration: "Jul 2024 - Aug 2024",
+    //   technologies: ["React", "Node.js", "Next.js", "TypeScript"],
+    //   links: {
+    //     website: "https://financio2.vercel.app/",
+    //     github: "https://github.com/Vatsal565/final"
+    //   },
+    //   highlights: [
+    //     "Developed comprehensive financial management system",
+    //     "Implemented real-time data visualization features",
+    //     "Created responsive user interface with modern design",
+    //     "Applied advanced financial algorithms for analysis"
+    //   ]
+    // }
   ],
   skills: {
     languages: ["Python", "C", "C++", "HTML5", "CSS", "JavaScript", "MySQL", "TypeScript", "VBA"],
     frameworks: ["scikit-learn", "PyTorch", "TensorFlow", "Keras", "OpenCV", "Streamlit", "NextJS", "ThreeJS", "ReactJS", "NodeJS", "Tailwind CSS", "GitHub", "PostgreSQL"]
   },
   certifications: [
-    {
-      name: "Cyber Security Fundamentals",
-      issuer: "C-DAC",
-      date: "June 2024"
-    }
+    // {
+    //   name: "Cyber Security Fundamentals",
+    //   issuer: "C-DAC",
+    //   date: "June 2024"
+    // }
   ],
   achievements: [
     "Secured top position in Web Wonders hackathon",
@@ -102,8 +102,8 @@ export const userData: UserData = {
     "Successfully completed cyber security internship"
   ],
   positions: [
-    { title: "Member, Nexus", organization: "Nexus", duration: "August 2025" },
-    { title: "MindBend", organization: "Tech Event", duration: "2025" },
-    { title: "Technical Team Member", organization: "Nexus NIT Surat", duration: "2023-Present" }
+    // { title: "Member, Nexus", organization: "Nexus", duration: "August 2025" },
+    { title: "CEV", organization: "CLUB", duration: "2025" },
+    { title: "ACM", organization: "NIT Surat", duration: "2025" }
   ]
 };
